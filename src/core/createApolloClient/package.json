@@ -1,0 +1,6 @@
+{
+  "name": "createApolloClient",
+  "version": "0.1.0-alpha.0",
+  "main": "./createApolloClient.server.js",
+  "browser": "./createApolloClient.client.js"
+}

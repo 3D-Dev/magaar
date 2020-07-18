@@ -1,0 +1,17 @@
+[ignore]
+.*/build
+.*/docs
+.*/node_modules
+.*/public
+
+[include]
+
+[options]
+suppress_comment=\\(.\\|\n\\)*\\$FlowExpectError
+module.file_ext=.js
+module.file_ext=.jsx
+module.file_ext=.json
+module.file_ext=.css
+module.file_ext=.scss
+module.file_ext=.graphql
+module.name_mapper='^.*\.graphql$' -> 'empty/object'

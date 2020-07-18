@@ -1,0 +1,10 @@
+mutation($email: String!, $password: String!) {
+  databaseCreateUser(email: $email, password: $password) {
+    success
+    error
+    user {
+      _id
+      email
+    }
+  }
+}
