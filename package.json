@@ -59,7 +59,7 @@
     "apollo-link-schema": "^1.2.2",
     "apollo-server": "^2.4.8",
     "apollo-server-express": "^2.4.8",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "classnames": "^2.2.6",
     "cookie-parser": "^1.4.4",
