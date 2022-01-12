@@ -134,7 +134,7 @@
     "jest-codemods": "^0.19.1",
     "jest-transform-graphql": "^2.1.0",
     "lint-staged": "^8.1.5",
-    "markdown-it": "^8.4.2",
+    "markdown-it": "^12.3.2",
     "mkdirp": "^0.5.1",
     "null-loader": "^0.1.1",
     "opn-cli": "^4.0.0",
